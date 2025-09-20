@@ -25,7 +25,7 @@ if user_text:
         model="gpt-4o"
     )
 
-    ai_response = model_response.choices[0].message.content #Aqui serve pra pegar a mensagem de Ai que é gerada pelo model response (a resposta esta no indice 0 dentro da lista content)
+    ai_response = model_response.choices[0].message.content # Aqui serve pra pegar a mensagem de Ai que é gerada pelo model response (a resposta entra em content dentro do JSON retornado pela API)
 
     st.chat_message("assistant").write(ai_response)
     ai_text = {"role": "assistant", "content": ai_response} #Nesse bloco de codigo inteiro serve pra armazenar a resposa da ai no historico de mensagens e monstrar ela na tela
