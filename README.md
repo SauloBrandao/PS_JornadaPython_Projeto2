@@ -3,12 +3,12 @@ Esse chatbot foi desenvolvido por mim durante a Jornada Python conduzida pela Ha
 
 ## Tecnologias Utilizadas
 
-Linguagem Usada
+###Linguagem Usada
 - Python
-Construção da Interface
+###Construção da Interface
 - Streamlit (Framework)
-Implementação da AI
+###Implementação da AI
 - OpenAi (API)
-Personalização de Ambiente
+###Personalização de Ambiente
 -python-dotenv (Biblioteca Python)
 
