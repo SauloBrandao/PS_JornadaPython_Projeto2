@@ -43,5 +43,6 @@ Depois crie uma Env e copie o conteúdo do example para dentro e coloque sua cha
 
 Após certificar-se de que todos os passos anteriores foram feitos, basta rodar o seguinte comando: streamlit run main.py e usar o código. 
 Isso deve abrir um site no seu navegador, hospedado localmente no seu computador
+
 ---
 Feito por: Saulo Pinto
