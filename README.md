@@ -1,2 +1,25 @@
-# PS_JornadaPython_Projeto2
-Repositorio dedicado ao Projeto 2 (Aula 04) da Jornada Python da Hashtag
+# Chatbot - Jornada Python
+Esse chatbot foi desenvolvido por mim durante a Jornada Python conduzida pela Hashtag Treinamentos. Durante os 4 dias, refiz o código da aula e fiz alterações para melhor entendimento, além de estudar as tecnologias utilizadas na sua produção.
+
+## Tecnologias Utilizadas
+
+### Linguagem Usada
+- Python
+### Construção da Interface
+- Streamlit (Framework)
+### Implementação da AI
+- OpenAi (API)
+### Personalização de Ambiente
+- python-dotenv (Biblioteca Python)
+
+## Comando para Instalação de Tecnologias 
+- (Opcional) caso queira criar uma venv: python -m venv venv
+- pip install openai
+- pip install streamlit
+- pip istall python-dotenv
+
+## Funcionalidades
+
+- Interação com AI atráves de chat
+- Criação de Historico de Mensagens
+
