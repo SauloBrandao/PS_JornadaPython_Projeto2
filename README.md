@@ -10,5 +10,5 @@ Esse chatbot foi desenvolvido por mim durante a Jornada Python conduzida pela Ha
 ### Implementação da AI
 - OpenAi (API)
 ### Personalização de Ambiente
--python-dotenv (Biblioteca Python)
+- python-dotenv (Biblioteca Python)
 
