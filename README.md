@@ -12,3 +12,14 @@ Esse chatbot foi desenvolvido por mim durante a Jornada Python conduzida pela Ha
 ### Personalização de Ambiente
 - python-dotenv (Biblioteca Python)
 
+## Comando para Instalação de Tecnologias 
+- (Opcional) caso queira criar uma venv: python -m venv venv
+- pip install openai
+- pip install streamlit
+- pip istall python-dotenv
+
+## Funcionalidades
+
+- Interação com AI atráves de chat
+- Criação de Historico de Mensagens
+
