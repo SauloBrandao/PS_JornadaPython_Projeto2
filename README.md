@@ -31,7 +31,7 @@ Esse chatbot foi desenvolvido por mim durante a Jornada Python conduzida pela Ha
 - Saldo na Carteira da OpenAi
 
 ### Passo 1: Importar sua chave para o código
-Para isso, basta acessar o site de [OpenAi](https://openai.com/pt-BR/api)
+Para isso, basta acessar o site de [OpenAi](https://openai.com/pt-BR/api).
 Em seguida, clique em Entrar e faça login na plataforma de API com sua conta da OpenAI.
 Depois, vá até a barra de pesquisa à esquerda, procure por API Key e gere sua chave de API.
 (Lembre-se de verificar se você possui saldo na carteira, na aba Billing).
