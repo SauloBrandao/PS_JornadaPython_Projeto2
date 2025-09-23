@@ -23,3 +23,12 @@ Esse chatbot foi desenvolvido por mim durante a Jornada Python conduzida pela Ha
 - Interação com AI atráves de chat
 - Criação de Historico de Mensagens
 
+## Rodando a Aplicação
+
+### Pré-Requisitos
+- Todas as tecnologias anteriores instaladas
+- Uma Chave API da OpenAi
+- Saldo na Carteira da OpenAi
+
+### Passo 1: Imoportar 
+
